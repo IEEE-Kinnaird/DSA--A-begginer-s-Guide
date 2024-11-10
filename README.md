@@ -1,14 +1,7 @@
 # Competitive Coding Practice Rounds
 
 ## Introduction
-Welcome to the **Competitive Coding Practice Rounds** initiative, proposed by:
-
-- **Aleeza Adnan**  
-  Chairperson, IEEE WIE Kinnaird Student Branch 2024-2025
-
-- **Sania Aimen**  
-  President, Computer Science Club 2024-2025
-
+Welcome to the **Competitive Coding Practice Rounds**.
 This initiative aims to strengthen students' problem-solving abilities and proficiency in data structures and algorithms. It is designed to help students excel in technical interviews and competitive coding rounds, enhancing their career prospects.
 
 ## Objectives
